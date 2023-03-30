@@ -34,6 +34,9 @@
 - **오브젝트 - 2022.03 ~ 2022.06**  
     - https://github.com/Ptudy/Object
     <br>
+
+- **게임서버 기초 다지기 - 2022.08 ~ 2022.09**
+    - https://github.com/kimchijinju/myGameServerStudy
     
 - **운영체제(반효경교수님 강의) 2022.09 ~ 2022.10**  
 👥 : jiyunpar, junji, hanbkim, cheseo  
