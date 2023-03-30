@@ -26,33 +26,28 @@
 
 ### 📖 진행했던 스터디 모임
 - **Effective Java - 2021.08 ~ 2021.09**  
-👥 **: jinia91, kimchijinju**  
+👥 : jinia91, kimchijinju  
     - https://www.jiniaslog.co.kr/article/list/tag/?tagName=%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94&page=1  
     - https://gainful-tin-43d.notion.site/Effective-Java-03af2ffb3b054a57b798dcda614472a9
-    <br>
     <br>
     
 - **오브젝트 - 2022.03 ~ 2022.06**  
     - https://github.com/Ptudy/Object
     <br>
-    <br>
     
 - **운영체제(반효경교수님 강의) 2022.09 ~ 2022.10**  
-**👥 : jiyunpar, junji, hanbkim, cheseo**  
+👥 : jiyunpar, junji, hanbkim, cheseo  
     - https://github.com/42NoGun/OperatingSystemConcpets  
-    <br>
     <br>
 
 - **네트워크(이석복교수님 강의) - 2022.10 ~ 2022.12**  
-**👥 : jiyunpar, junji, hanbkim, cheseo**    
+👥 : jiyunpar, junji, hanbkim, cheseo  
     - https://gainful-tin-43d.notion.site/1a6a7d342aea411598fd03bea050481f
     <br>
-    <br>
  
-- **네트워크 하향식 접근 - 2023.03 ~ **  
-**👥 :  ean, ebang, hanbkim, jiyunpar, seunghwk, wbae**  
+- **네트워크 하향식 접근 - 2023.03** **~**  
+👥 :  ean, ebang, hanbkim, jiyunpar, seunghwk, wbae  
     - https://kimchijinju.tistory.com/category/%EC%B1%85
-    <br>
     <br>
     
 ---
