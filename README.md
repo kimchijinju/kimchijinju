@@ -37,7 +37,8 @@
 
 - **게임서버 기초 다지기 - 2022.08 ~ 2022.09**
     - https://github.com/kimchijinju/myGameServerStudy
-    
+    <br>
+
 - **운영체제(반효경교수님 강의) 2022.09 ~ 2022.10**  
 👥 : jiyunpar, junji, hanbkim, cheseo  
     - https://github.com/42NoGun/OperatingSystemConcpets  
