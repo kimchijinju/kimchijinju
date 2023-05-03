@@ -56,6 +56,6 @@
 
 ### 📫 연락처:  
 Email : hanbimkim@gmail.com  
-Blog : kimchijinju.tistory.com  
+Blog : https://kimchijinju.tistory.com  
 
 
