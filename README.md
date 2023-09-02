@@ -47,7 +47,7 @@
     - https://gainful-tin-43d.notion.site/1a6a7d342aea411598fd03bea050481f
     <br>
  
-- **네트워크 하향식 접근 - 2023.03** **~**  
+- **네트워크 하향식 접근 - 2023.03** **~** **2023.05**  
 👥 :  ean, ebang, hanbkim, jiyunpar, seunghwk, wbae  
     - https://kimchijinju.tistory.com/category/%EC%B1%85
     <br>
