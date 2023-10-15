@@ -8,7 +8,7 @@
 - 42Seoul (2022.07 ~ )
 - 한국방송통신대학교 컴퓨터 과학과 재학 (2022.03 ~ )
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchijinju&show_icons=true&theme=tokyonight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchijinju&show_icons=true&theme=tokyonight) -->
 
 ---
 
